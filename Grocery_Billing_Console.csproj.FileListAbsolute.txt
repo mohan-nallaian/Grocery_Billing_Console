@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\obj\Debug\Grocery_Billing_Console.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\obj\Debug\Grocery_Billing_Console.Form1.resources
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\obj\Debug\Grocery_Billing_Console.Properties.Resources.resources
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\obj\Debug\Grocery_Billing_Console.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\obj\Debug\Grocery_Billing_Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\bin\Debug\Grocery_Billing_Console.exe.config
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\bin\Debug\Grocery_Billing_Console.exe
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\bin\Debug\Grocery_Billing_Console.pdb
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\obj\Debug\Grocery_Billing_Console.exe
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Grocery_Billing_Console\Grocery_Billing_Console\obj\Debug\Grocery_Billing_Console.pdb
